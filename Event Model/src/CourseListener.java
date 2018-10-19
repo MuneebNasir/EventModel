@@ -1,4 +1,4 @@
-/** SYSC 3101 Event Model
+/** Event Model CourseListener Interface
  * @author Muneeb Nasir
  * @version 1.1
  *

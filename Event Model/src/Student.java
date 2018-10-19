@@ -1,4 +1,4 @@
-/** SYSC 3101 Event Model
+/** Event Model
  * @author Muneeb Nasir
  * @version 1.1
  *
